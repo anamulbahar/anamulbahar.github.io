@@ -1,5 +1,4 @@
-# anamulbahar.github.io
-**Anamul Bahar**
+# Anamul Bahar
 
 Research Assistant, Genomic Research Group, CVASU
 

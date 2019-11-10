@@ -6,4 +6,3 @@ Head of Training, NextGen Informatics
 
 [anamulbahar@gmail.com](mailto:anamulbahar@gmail.com)
 
-+880 1521 225 101

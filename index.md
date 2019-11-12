@@ -1,3 +1,6 @@
+![](https://github.com/anamulbahar/anamulbahar.github.io/images/readme.jpg)
+
+
 # Anamul Bahar
 
 A Data Scientist from Bangladesh

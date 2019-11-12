@@ -1,6 +1,10 @@
 ![](images/anamulbahar.jpg)
 
-
+<p align="center">
+  <b>#Anamul Bahar</b><br>
+  <br><br>
+  <b>A Data Scientist from Bangladesh</b><br>
+</p>
 # Anamul Bahar
 
 A Data Scientist from Bangladesh

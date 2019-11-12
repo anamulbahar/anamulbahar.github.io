@@ -1,4 +1,4 @@
-![](https://github.com/anamulbahar/anamulbahar.github.io/images/readme.jpg)
+![](images/readme.jpg)
 
 
 # Anamul Bahar

@@ -1,8 +1,31 @@
+![](https://github.com/anamulbahar/anamulbahar.github.io/images/readme.jpg)
+
+
 # Anamul Bahar
 
-Research Assistant, Genomic Research Group, CVASU
+A Data Scientist from Bangladesh
 
-Head of Training, NextGen Informatics
+## Contact information
 
 [anamulbahar@gmail.com](mailto:anamulbahar@gmail.com)
+
++880 1521 225 101
+
+## Work Experience
+
+#### NextGen Informatics Ltd
+
+Head of Training
+
+October 2019 - ongoing
+
+#### Chattogram Veterinary and Animal Sciences University
+
+Research Assistant
+
+Genomic Research Group
+
+Dept. of Pathology and Parasitology
+
+July 2019 - ongoing
 

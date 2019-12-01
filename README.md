@@ -1,10 +1,9 @@
-![](images/anamulbahar.jpg)
+![](images/image.jpg)
 
 
 
 # Anamul Bahar
-Head of Training, NextGen Informatics Ltd
-
+Chief Operating Officer (COO), NextGen Informatics Ltd
 Research Assistant, Genomic Research Group, CVASU
 
-[anamulbahar@gmail.com](mailto:anamulbahar@gmail.com)
+####coming soon...
